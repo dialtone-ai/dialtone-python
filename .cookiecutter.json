@@ -1,0 +1,16 @@
+{
+  "_checkout": null,
+  "_output_dir": "/Users/petrgazarov/workspace/anneal",
+  "_repo_dir": "/Users/petrgazarov/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Petr Gazarov",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "petr@anneal.ai",
+  "friendly_name": "Dialtone",
+  "github_user": "petrgazarov",
+  "license": "MIT",
+  "package_name": "dialtone_python",
+  "project_name": "dialtone_python",
+  "version": "0.0.1"
+}
