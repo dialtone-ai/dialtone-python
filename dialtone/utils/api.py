@@ -19,7 +19,6 @@ from dialtone.errors import (
     ErrorCode,
     StatusCode,
 )
-from dialtone.types import ChatCompletionChunk
 from dialtone.config import DEFAULT_REQUEST_TIMEOUT
 
 # Generic type variable
