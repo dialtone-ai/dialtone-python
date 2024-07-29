@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dialtone"
-version = "0.0.33"
+version = "0.0.34"
 description = "Dialtone"
 authors = ["Petr Gazarov <petr@anneal.ai>", "Akash Kashyap <akash@anneal.ai>"]
 license = "Apache-2.0"
