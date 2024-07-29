@@ -3,13 +3,12 @@ name = "dialtone"
 version = "0.0.33"
 description = "Dialtone"
 authors = ["Petr Gazarov <petr@anneal.ai>", "Akash Kashyap <akash@anneal.ai>"]
-license = "MIT"
+license = "Apache-2.0"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
 pydantic = "^2.7.4"
-requests = "^2.32.3"
 httpx = "^0.27.0"
 
 [tool.poetry.group.dev.dependencies]

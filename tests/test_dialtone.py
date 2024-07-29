@@ -16,7 +16,7 @@ api_keys = {
     "anthropic": os.getenv("ANTHROPIC_API_KEY") or "",
     "google": os.getenv("GOOGLE_API_KEY") or "",
     "groq": os.getenv("GROQ_API_KEY") or "",
-    "cohere": os.getenv("CO_API_KEY") or "",
+    "cohere": os.getenv("COHERE_API_KEY") or "",
     "fireworks": os.getenv("FIREWORKS_API_KEY") or "",
     "deepinfra": os.getenv("DEEPINFRA_API_KEY") or "",
     "together": os.getenv("TOGETHER_API_KEY") or "",

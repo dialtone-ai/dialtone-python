@@ -19,6 +19,10 @@
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [black]: https://github.com/psf/black
 
+## About
+
+This is a Python SDK for interacting with the Dialtone API.
+
 ## Installation
 
 You can install _Dialtone_ via [pip] from [PyPI]:
@@ -26,11 +30,6 @@ You can install _Dialtone_ via [pip] from [PyPI]:
 ```console
 $ pip install dialtone
 ```
-
-## Contributing
-
-Contributions are very welcome.
-To learn more, see the [Contributor Guide].
 
 ## License
 
