@@ -5,11 +5,6 @@
 [![License](https://img.shields.io/pypi/l/dialtone)][license]
 
 [pypi status]: https://pypi.org/project/dialtone/
-[read the docs]: https://dialtone_python.readthedocs.io/
-[tests]: https://github.com/dialtone-ai/dialtone_python/actions?workflow=Tests
-[codecov]: https://app.codecov.io/gh/dialtone-ai/dialtone_python
-[pre-commit]: https://github.com/pre-commit/pre-commit
-[black]: https://github.com/psf/black
 
 ## About
 
@@ -33,6 +28,6 @@ If you encounter any problems,
 please [file an issue] along with a detailed description.
 
 [pypi]: https://pypi.org/
-[file an issue]: https://github.com/dialtone-ai/dialtone_python/issues
+[file an issue]: https://github.com/dialtone-ai/dialtone-python/issues
 [pip]: https://pip.pypa.io/
-[license]: https://github.com/dialtone-ai/dialtone_python/blob/main/LICENSE
+[license]: https://github.com/dialtone-ai/dialtone-python/blob/main/LICENSE
