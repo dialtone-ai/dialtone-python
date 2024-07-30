@@ -2,7 +2,10 @@
 name = "dialtone"
 version = "0.0.35"
 description = "Dialtone"
-authors = ["Petr Gazarov <petr@anneal.ai>", "Akash Kashyap <akash@anneal.ai>"]
+authors = [
+  "Petr Gazarov <petr@usedialtone.com>",
+  "Akash Kashyap <akash@usedialtone.com>",
+]
 license = "Apache-2.0"
 readme = "README.md"
 
