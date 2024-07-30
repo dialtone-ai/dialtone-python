@@ -24,8 +24,7 @@ pip install dialtone
 
 ## Issues
 
-If you encounter any problems,
-please [file an issue] along with a detailed description.
+If you encounter any problems, please [file an issue] along with a detailed description.
 
 [pypi]: https://pypi.org/
 [file an issue]: https://github.com/dialtone-ai/dialtone-python/issues
