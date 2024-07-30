@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/dialtone.svg)][pypi status]
 [![Python Version](https://img.shields.io/pypi/pyversions/dialtone)][pypi status]
-[![License](https://img.shields.io/pypi/l/dialtone)][license]
+[![License](https://img.shields.io/pypi/l/dialtone?version=bump)][license]
 
 [pypi status]: https://pypi.org/project/dialtone/
 
