@@ -18,8 +18,8 @@ To see documentation, please click [here](https://docs.usedialtone.com/).
 
 You can install _Dialtone_ via [pip] from [PyPI]:
 
-```console
-$ pip install dialtone
+```bash
+pip install dialtone
 ```
 
 ## Issues
